@@ -5,7 +5,7 @@ jQuery required - imported from CDN.
 
 Datapicker (https://github.com/fengyuanchen/datepicker)
 
-Imagine you have to make 100 these notes per day.
+Imagine you have to make 100 of these notes per day.
 
 >C_SPD: 654 mbit/s;
 
