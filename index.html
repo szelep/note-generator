@@ -1,0 +1,42 @@
+﻿<link  href="assets/datepicker.css" rel="stylesheet">
+<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="assets/datepicker.js"></script>
+
+
+<style>
+.nice_input{
+	padding: 10px;
+    border: 1px solid #dedede;
+    font-size: 16px;
+	margin: 5px;
+	min-width: 330px;
+	}
+.label-input{
+	min-width: 280px;
+	display: inline-block;
+}
+.nice_checkbox{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+	}
+#message{
+	opacity: 0;
+}
+.datepicker{ display: inline-block !important }
+.gnr { margin-top: 10px}
+.error-input{ border-color: red }
+</style>
+
+<script src="assets/main.js"></script>
+<h2>Notes generator</h2>
+
+<select class="nice_input" id="reason">
+	<option> - - - </option>
+</select>
+
+<hr />
+<div id="o-container"></div>
+<button class="unactive-btn gnr" onclick="generate()">Go!</button><br><br>
+<textarea class="nice_input" style="width: 500px; min-height: 100px" id="output"></textarea><br />
+<span id="message"></span>
