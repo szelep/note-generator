@@ -1,6 +1,6 @@
 # What is this?
 This is a short way to draw notes (used in another applications).
-
+`items.js` contains some samples.
 jQuery required - imported from CDN.
 
 Datapicker (https://github.com/fengyuanchen/datepicker)
