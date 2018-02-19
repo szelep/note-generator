@@ -1,8 +1,11 @@
 # What is this?
 This is a short way to draw notes (used in another applications).
-Imagine you have to make 100 these notes per day.
+
 jQuery required - imported from CDN.
+
 Datapicker (https://github.com/fengyuanchen/datepicker)
+
+Imagine you have to make 100 these notes per day.
 
 >C_SPD: 654 mbit/s;
 
