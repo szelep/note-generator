@@ -2,13 +2,20 @@
 This is a short way to draw notes (used in another applications).
 Imagine you have to make 100 these notes per day.
 jQuery required - imported from CDN.
+Datapicker (https://github.com/fengyuanchen/datepicker)
 
 >C_SPD: 654 mbit/s;
+
 >C_WN: 45 mbit/s;
+
 >N_PROMO: NO;
+
 >C_MODEM: Modecom;
+
 >Price: NO_INFO;
+
 >SERV_END_DATE: 02/19/2018;
+
 > +10 rows
 
 
